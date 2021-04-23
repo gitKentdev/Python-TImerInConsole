@@ -4,4 +4,4 @@ Project name: **Timer in console**
 
 ---
 
-A simple timer displayed in the console
+A simple timer displayed on the console
